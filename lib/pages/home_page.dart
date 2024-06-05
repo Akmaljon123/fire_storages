@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:audioplayers/audioplayers.dart';
 import 'package:file_picker/file_picker.dart';
-import 'package:fire_storages/pages/dowload_page.dart';
+import 'package:fire_storages/pages/download_page.dart';
 import 'package:fire_storages/services/storage_service.dart';
 import 'package:fire_storages/services/util_service.dart';
 import 'package:firebase_storage/firebase_storage.dart';
