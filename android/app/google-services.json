@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1081529467591",
+    "firebase_url": "https://database-2adec-default-rtdb.firebaseio.com",
+    "project_id": "database-2adec",
+    "storage_bucket": "database-2adec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081529467591:android:9cc47bf3e4a8a539d174e2",
+        "android_client_info": {
+          "package_name": "com.example.fire_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaeNAIbEGT_sEfsStgXR60wmjLtIIT924"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081529467591:android:c31bd26536fffc8ed174e2",
+        "android_client_info": {
+          "package_name": "com.example.fire_storages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaeNAIbEGT_sEfsStgXR60wmjLtIIT924"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
